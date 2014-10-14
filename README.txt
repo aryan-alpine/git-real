@@ -1,3 +1,3 @@
-this is just a sample text file.
-this is a MODIFIED sample text file.
+Here is my readme
+and now I can sleep
 
